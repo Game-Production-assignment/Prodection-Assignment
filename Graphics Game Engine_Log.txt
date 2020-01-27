@@ -1,0 +1,8 @@
+[INFO]: Starting the GameSceneManager
+[INFO]: OpenGL version: 4.5.13541 Compatibility Profile Context 25.20.14136.1002
+[INFO]: Graphics card vendor ATI Technologies Inc.
+[INFO]: Graphics card name AMD Radeon(TM) Vega 8 Graphics
+[INFO]: GLSL Version 4.50
+[INFO]: Created Scene0: 
+[INFO]: Created Scene1: 
+[INFO]: Deleting the GameSceneManager
